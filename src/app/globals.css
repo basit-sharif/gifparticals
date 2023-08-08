@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+#tsparticles {
+    z-index: 100;
+    position: fixed;
+}
